@@ -17,7 +17,7 @@ what I have done
 improvement
     1. need to pass the props to profile page
     2. use Bootstrap, but it clashed with create-react-cli, don't know why
-    3. redux plan
+    3. redux plan:
         a. use <provider> to pass props from store in context
         b. design search reducer and its type
         c. compose the thunk middleware to the reducer
